@@ -1,13 +1,15 @@
 <!-- ![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/markSancho7/markSancho7/main/mini.jpg) -->
 
-<img src='https://raw.githubusercontent.com/markSancho7/markSancho7/main/mini.jpg'
-align="center">
+<div align = "center">
+<img src='https://raw.githubusercontent.com/markSancho7/markSancho7/main/mini.jpg'>
+</div>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
 <h1 align="center">Hola 👋, Soy Marcos Sancho Guillén</h1>
 <h3 align="center">QUE TE APASIONA</h3>
 
-- 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO)
+<!-- - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
+- 🔭 ACTUALMENTE ESTUDIO EN [TRAZOS](https://trazos.net/?campaign=Marca&content=464355507358&keyword=trazos&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xUSKn9v4J7GlP3xn_VVuv8fZqGd7tSdinQAevArFTRgHQ3W4fTtnIaAo4NEALw_wcB)
 
 - 🌱 ESTOY ESTUDIANDO **JAVASCRIP** **REACT** **NODE** **HTML** **CSS**
 
