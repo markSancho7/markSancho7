@@ -57,7 +57,10 @@
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="git" width="40" height="40"/> 
  </a>
- [![markSancho7 GitHub stats](https://github-readme-stats.vercel.app/api?username=markSancho7)](https://github.com/markSancho7/github-readme-stats)
+ <p>
+    [![markSancho7 GitHub stats](https://github-readme-stats.vercel.app/api?username=markSancho7)](https://github.com/markSancho7/github-readme-stats)
+ </p>
+
 
   <!-- <a href="https://getbem.com/">
       <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
