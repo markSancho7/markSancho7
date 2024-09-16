@@ -1,21 +1,24 @@
 <!-- ![Imagen decorativa de tu perfil](https://raw.githubusercontent.com/markSancho7/markSancho7/main/mini.jpg) -->
 
 <div align = "center">
-<img src='https://raw.githubusercontent.com/markSancho7/markSancho7/main/mini.jpg'>
+<img src='LogoMarcMunuera.png'>
 </div>
 
 <!-- Generado con https://rahuldkjain.github.io/gh-profile-readme-generator/ -->
-<h1 align="center">Hola 👋, Soy Marcos Sancho Guillén</h1>
-<h3 align="center">QUE TE APASIONA</h3>
+<h1 align="center">Hi 👋, I'm Marcos Sancho Guillén</h1>
+<h3 align="center">About me</h3>
 
-<!-- - 🔭 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
-- 🔭 ACTUALMENTE ESTUDIO EN [TRAZOS](https://trazos.net/?campaign=Marca&content=464355507358&keyword=trazos&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xUSKn9v4J7GlP3xn_VVuv8fZqGd7tSdinQAevArFTRgHQ3W4fTtnIaAo4NEALw_wcB)
+<!-- - 💻 ACTUALMENTE TRABAJO EN [NOMBRE DEL PROYECTO](URL-DEL-PROYECTO) -->
 
-- 🌱 ESTOY ESTUDIANDO **JAVASCRIP** **REACT** **NODE** **HTML** **CSS**
+- 💻 Im a web developer specialiced in front-end
+- 🔭 studied at [TRAZOS](https://trazos.net/?campaign=Marca&content=464355507358&keyword=trazos&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xUSKn9v4J7GlP3xn_VVuv8fZqGd7tSdinQAevArFTRgHQ3W4fTtnIaAo4NEALw_wcB)
+- 🌱 these are the technologies I use the most **JAVASCRIP** **REACT** **NODE** **HTML** **CSS**
+
+- I prioritize clean code and project scalability
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
-- 📫 PUEDES CONTACTARME EN **marcos.sancho7@gmail.com**
+- 📫 feel free to contact **marcos.sancho7@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -58,8 +61,6 @@
     <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="git" width="40" height="40"/> 
  </a>
  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markSancho7&show_icons=true&theme=dark&locale=en&layout=compact" alt="markSancho7" /></p>
-
-
 
   <!-- <a href="https://getbem.com/">
       <img src="http://jennyknuth.com/wp-content/uploads/2018/03/BEM-1.png" target="_blank" rel="noreferrer" width="40" height="40" alt="BEM metodology">
