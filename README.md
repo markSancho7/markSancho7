@@ -14,7 +14,7 @@
 - 🔭 studied at [TRAZOS](https://trazos.net/?campaign=Marca&content=464355507358&keyword=trazos&gad_source=1&gclid=Cj0KCQiAoeGuBhCBARIsAGfKY7xUSKn9v4J7GlP3xn_VVuv8fZqGd7tSdinQAevArFTRgHQ3W4fTtnIaAo4NEALw_wcB)
 - 🌱 these are the technologies I use the most **JAVASCRIP** **REACT** **NODE** **HTML** **CSS**
 
-- I prioritize clean code and project scalability
+- 👓 I prioritize clean code and project scalability
 
 - 👨‍💻 TODOS MIS PROYECTOS ESTÁN [MIDOMINIO.COM](MIDOMINIO.COM)
 
